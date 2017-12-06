@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>// Try other type100s of loops!
+let loop = Loop(type: LoopType.airyVox)
+</string>
+			<key>ModifiedRange</key>
+			<string>{2754, 72}</string>
+			<key>OriginalContent</key>
+			<string>// Try other types of loops!
+let loop = Loop(type: LoopType.aboveAndBeyond)
+</string>
+			<key>OriginalRange</key>
+			<string>{2754, 76}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>ElectricGuit</string>
+			<key>ModifiedRange</key>
+			<string>{3171, 12}</string>
+			<key>OriginalContent</key>
+			<string>B</string>
+			<key>OriginalRange</key>
+			<string>{3175, 1}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>r</string>
+			<key>ModifiedRange</key>
+			<string>{3184, 1}</string>
+			<key>OriginalContent</key>
+			<string>ss</string>
+			<key>OriginalRange</key>
+			<string>{3177, 2}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>    instrument.noteCount == 0
+</string>
+			<key>ModifiedRange</key>
+			<string>{3224, 30}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{3218, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>smallRoom</string>
+			<key>ModifiedRange</key>
+			<string>{3589, 9}</string>
+			<key>OriginalContent</key>
+			<string>cathedral</string>
+			<key>OriginalRange</key>
+			<string>{3553, 9}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>s</string>
+			<key>ModifiedRange</key>
+			<string>{4091, 1}</string>
+			<key>OriginalContent</key>
+			<string></string>
+			<key>OriginalRange</key>
+			<string>{4055, 0}</string>
+		</dict>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>eed</string>
+			<key>ModifiedRange</key>
+			<string>{4093, 3}</string>
+			<key>OriginalContent</key>
+			<string>itch</string>
+			<key>OriginalRange</key>
+			<string>{4056, 4}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Document1.playgroundchapter/Pages/Exercise1.playgroundpage/Contents.swift</string>
+</dict>
+</plist>

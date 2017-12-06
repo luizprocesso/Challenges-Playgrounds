@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="Contatos"/>
+        <page name="Contatos copy"/>
+        <page name="Protótipo 1 Deu merda"/>
+        <page name="Protótipo 2"/>
+        <page name="Protótipo 2 copy "/>
+        <page name="Protótipo 3"/>
+        <page name="Goodo goodo"/>
+    </pages>
+</playground>
